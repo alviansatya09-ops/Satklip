@@ -6,8 +6,8 @@ export default function App() {
       </div>
       <h1 style={{ fontSize: "42px", marginTop: "20px" }}>Klip Yang Viral</h1>
       <p style={{ color: "#ccc", fontSize: "18px" }}>Tinggal upload!</p>
-      <a href="https://wa.me/6281234567890" style={{ background: "#25D366", color: "white", padding: "14px 28px", borderRadius: "30px", display: "inline-block", marginTop: "20px", textDecoration: "none", fontWeight: "bold" }}>
-        Order via WhatsApp
+      <a href="https://t.me/Satzly" style={{ background: "#229ED9", color: "white", padding: "14px 28px", borderRadius: "30px", display: "inline-block", marginTop: "20px", textDecoration: "none", fontWeight: "bold" }}>
+        Order via Telegram
       </a>
     </div>
   );
