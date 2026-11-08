@@ -1,0 +1,6 @@
+{
+  "name": "SATKLIP - AI Clip Maker",
+  "description": "Ubah 1 Video Panjang Jadi 30 Clip Viral untuk Creator Indonesia. AI cariin momen terbaik, auto subtitle, crop rasio & watermark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
